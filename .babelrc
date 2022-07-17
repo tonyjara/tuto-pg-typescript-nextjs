@@ -1,0 +1,8 @@
+{
+  "presets": ["next/babel"],
+  "env": {
+    "plugins": {
+      "test": ["@babel/plugin-transform-modules-commonjs"]
+    }
+  }
+}
